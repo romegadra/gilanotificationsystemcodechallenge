@@ -38,7 +38,7 @@ Mockito
 Jacoco (code coverage)
 🚀 How to Run
 1. Clone the repo
-git clone https://github.com/romegadra/gilacodechallenge.git
+git clone https://github.com/romegadra/gilanotificationsystemcodechallenge.git
 cd gilacodechallenge
 2. Run Backend
 cd backend
