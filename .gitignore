@@ -1,0 +1,16 @@
+# Backend
+/build/
+.gradle/
+*.log
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+
+# OS
+.DS_Store
